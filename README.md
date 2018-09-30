@@ -1,2 +1,2 @@
-# dmore-server
-Repository of dmore server web usage
+# Dmore_Server  
+[support.dmoredesign.com] (link)
